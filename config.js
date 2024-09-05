@@ -1,7 +1,7 @@
 require("./all/module")
 
 global.owner = "https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04" 
-global.namabot = "𝕻𝕽𝕰𝖃𝖄 𝕭𝖀𝕾 𝕻𝟐" //BOT NAME
+global.namabot = "HINT BUG 🤖" //BOT NAME
 global.namaCreator = "*PRECIOUS AYOMIDE*" //CREATOR NAME
 global.autoJoin = false //DON'T CHANGE  / JANGAN GANTI
 global.antilink = false //DON'T CHANGE  / JANGAN GANTI
